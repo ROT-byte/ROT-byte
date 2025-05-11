@@ -27,10 +27,22 @@
   <img src="https://github.com/user-attachments/assets/577c9910-d377-43e0-b2b6-e9ec1e3b85ef" alt="CHIP-8 Emulator" width="150" style="border-radius: 50px; border: 2px solid #000;">
 </a>
 
-### 📊 Datalemur
-<img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresslemur.png" alt="Progress Chart" width="200"/>
+### 📊 Datalemur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Leetcode
 
-### 📊 Leetcode
-<img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Progress Chart" width="225"/>
+<div style="text-align: center;">
+  <span style="display: inline-block; margin-right: 40px;">
+    <img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresslemur.png" alt="Datalemur Progress" width="200"/>
+  </span>
+
+  <span style="display: inline-block;">
+    <img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Leetcode Progress" width="225"/>
+  </span>
+</div>
+
+
+
+<!-- Space between the two sections -->
+<div style="height: 40px;"></div>
+
 
 
