@@ -25,4 +25,4 @@
 </a>
 
 ### 📊 Datalemur
-<img src="https://github.com/ROT-byte/datalemur/raw/main/progress.png" alt="Progress Chart" width="250"/>
+<img src="https://github.com/ROT-byte/datalemur/raw/main/progress.png" alt="Progress Chart" width="200"/>
