@@ -23,6 +23,7 @@
 <a href="https://chip8emulatorrot.netlify.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/83bc0c60-0244-4a26-a528-ecdffff82ed5" alt="CHIP-8 Emulator" width="150" style="border-radius: 50px; border: 2px solid #000;">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ROT-byte/PredatorSense" target="_blank">
   <img src="https://github.com/user-attachments/assets/577c9910-d377-43e0-b2b6-e9ec1e3b85ef" alt="CHIP-8 Emulator" width="150" style="border-radius: 50px; border: 2px solid #000;">
 </a>
