@@ -35,7 +35,7 @@
   </span>
 
   <span style="display: inline-block;">
-    <img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Leetcode Progress" width="225"/>
+    <img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Leetcode Progress" width="215"/>
   </span>
 </div>
 
