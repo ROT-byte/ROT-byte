@@ -5,6 +5,9 @@
 
 ### 💻 Languages and Tools
 <p align="left"> 
+    <a href="https://java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/1ef9e5e9-c984-470e-9a93-4142d5da54da" alt="c" width="40" height="40"/> 
+  </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -29,3 +32,5 @@
 
 ### 📊 Leetcode
 <img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Progress Chart" width="225"/>
+
+
