@@ -25,4 +25,7 @@
 </a>
 
 ### 📊 Datalemur
-<img src="https://github.com/ROT-byte/datalemur/raw/main/progress.png" alt="Progress Chart" width="200"/>
+<img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresslemur.png" alt="Progress Chart" width="200"/>
+
+### 📊 Leetcode
+<img src="https://github.com/ROT-byte/ProgressTracker/raw/main/progresscode.png" alt="Progress Chart" width="225"/>
